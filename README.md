@@ -1,2 +1,2 @@
 # ComputerArchitecture_ProcessorModeling
-Some codes are directly from the professor.
+Some codes are directly from the Professor Patra.
